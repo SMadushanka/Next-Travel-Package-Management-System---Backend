@@ -176,7 +176,7 @@ The adoption of Spring Web Flux empowers the Next Travel Pvt Ltd system with rea
 ## Setup and Installation
 
 1. **Requirements:**
-    - JDK 17+
+    - JDK 25+
     - MySQL, MongoDB
     - Maven
     - Gradle
